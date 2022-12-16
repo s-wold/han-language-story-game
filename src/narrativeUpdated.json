@@ -1,0 +1,158 @@
+{
+  "quiz": {
+    "quizId": "x42kew",
+    "content": [
+      {
+        "id": "1",
+        "narrative": "Jejik cho jejik cho ji nah-'ay?",
+        "translation": "Big moose, big moose what do you see? ",
+        "question": "___ cho ___ cho ji nah-'ay?",
+        "missing_word": "Jejik",
+        "img": ["assets/images/moose1.jpg"]
+        
+      },
+
+      {
+        "id": "2",
+        "narrative": "Jejik cho jejik cho ji nah-'ay? Detsik shenoh-'ay.",
+        "translation": "Big moose, big moose what do you see? I see a baby moose looking at me. ",
+        "question": "Jejik cho jejik cho ji nah-'ay? _____ shenoh-'ay.",
+        "missing_word": "detsik",
+        "img": ["assets/images/baby-moose.jpg"]
+      },
+
+      {
+        "id": "3",
+        "narrative": "Detsik, destsik ji nah-'ay? Wedzey shenoh-'ay.",
+        "translation": "Baby moose, baby moose what do you see? I see a caribou looking at me. ",
+        "question": "Detsik, destsik ji nah-'ay? ___ shenoh-'ay.",
+        "missing_word": "Wedzey",
+        "img": ["assets/images/caribou1.jpg"]
+      },
+
+      {
+        "id": "4",
+        "narrative": "Wedzey, wedzey ji nah-'ay? Ch'egha shenoh-'ay.",
+        "translation": "Caribou, caribou what do you see? I see a baby caribou looking at me. ",
+        "question": "___, ___ ji nah-'ay? Ch'egha shenoh-'ay.",
+        "missing_word": "Wedzey",
+        "img": ["assets/images/baby-caribou.jpg"]
+      },
+
+      {
+        "id": "5",
+        "narrative": "Ch'egha ch'egha ji nah-ay? Debe shenoh-'ay",
+        "translation": "Baby caribou, baby caribou what do you see? I see a sheep looking at me. ",
+        "question": "___ ch'egha ji nah-ay? Debe shenoh-'ay",
+        "missing_word": "ch'egha",
+        "img": ["assets/images/sheep.jpg"]
+      },
+
+      {
+        "id": "6",
+        "narrative": "Debe, debe ji nah-'ay? Deve ga shenoh-'ay.",
+        "translation": "Sheep, sheep what do you see? I see a baby sheep looking at me. ",
+        "question": "____, ____ ji nah-'ay? Deve ga shenoh-'ay.",
+        "missing_word": "Debe",
+        "img": ["assets/images/baby-sheep.jpg"]
+      },
+
+      {
+        "id": "7",
+        "narrative": "Debe ga, debe ga, ji nah-'ay? Shar zray shenoh-'ay.",
+        "translation": "Baby sheep, baby sheep, what do you see? I see a black bear looking at me. ",
+        "question": "Debe ga, debe ga, ji nah-'ay? ___ zray shenoh-'ay..",
+        "missing_word": "Shar",
+        "img": ["assets/images/blackbear.jpg"]
+      },
+
+      {
+        "id": "8",
+        "narrative": "Shar zray, shar zray, ji nah-'ay? Shar ga shenoh-'ay.",
+        "translation": "Black bear, black bear, what do you see? I see a baby bear looking at me. ",
+        "question": "Shar ____, shar ____, ji nah-'ay? Shar ga shenoh-'ay.",
+        "missing_word": "zray",
+        "img": ["assets/images/baby-blackbear.jpg"]
+
+      },
+
+      {
+        "id": "9",
+        "narrative": "Shar ga, shar ga, ji nah-'ay? Zhur shenoh-'ay.",
+        "translation": "Baby bear, baby bear, what do you see? I see a wolf looking at me. ",
+        "question": "___ __, ____ __, ji nah-'ay? Zhur shenoh-'ay.",
+        "missing_word": "Shar ga",
+        "img": ["assets/images/wolf.jpg"]
+
+      },
+
+      {
+        "id": "10",
+        "narrative": "Zhur, zhur ji nah-'ay? Zhur ga shenoh-'ay.",
+        "translation": "Wolf, wolf, what do you see? I see a baby wolf looking at me. ",
+        "question": "____, ____ ji nah-'ay? Zhur ga shenoh-'ay.",
+        "missing_word": "Zhur",
+        "img": ["assets/images/baby-wolf2.jpg"]
+
+      },
+
+      {
+        "id": "11",
+        "narrative": "Zhur ga, zhur ga ji nah-'ay? Gah shenoh-'ay.",
+        "translation": "Baby wolf, baby wolf, what do you see? I see a rabbit looking at me. ",
+        "question": "Zhur ga, zhur ga ji nah-'ay? ___ shenoh-'ay.",
+        "missing_word": "Gah",
+        "img": ["assets/images/rabbit.jpg"]
+
+      },
+
+      {
+        "id": "12",
+        "narrative": "Gah, gah, ji nah-'ay? Gah zhar shenoh-'ay.",
+        "translation": "Rabbit, rabbit what do you see? I see a baby rabbit looking at me. ",
+        "question": "Gah, gah, ji nah-'ay? ___ ____ shenoh-'ay.",
+        "missing_word": "Gah zhar",
+        "img": ["assets/images/baby-rabbit.jpg"]
+
+      },
+
+      {
+        "id": "13",
+        "narrative": "Gah zhar, gah zhar, ji nah-'ay? Shetso shenoh-'ay.",
+        "translation": "Baby rabbit, baby rabbit, what do you see? I see Grandma looking at me. ",
+        "question": "Gah zhar, gah zhar, ji nah-'ay? _____ shenoh-'ay.",
+        "missing_word": "Shetso",
+        "img": ["assets/images/grandma.jpg"]
+
+      },
+
+      {
+        "id": "14",
+        "narrative": "Shetso, shetso, ji nah-'ay? Tr'inke-in shenoh-'ay.",
+        "translation": "Grandma, grandma, what do you see? I see children looking back at me. ",
+        "question": "Shetso, shetso, ji nah-'ay? __________ shenoh-'ay.",
+        "missing_word": "Tr'inke-in",
+        "img": ["assets/images/children.jpg"]
+
+      },
+
+      {
+        "id": "15",
+        "narrative": "Tr'inke-in, tr'inke-in ji nah-ay?",
+        "translation": "Children, children, what do you see? ",
+        "question": "Tr'inke-in, tr'inke-in __ ______?",
+        "missing_word": "ji nah-ay",
+        "img": ["assets/images/grandmother2.jpg"]
+
+      },
+
+      {
+        "id": "16",
+        "question": "The End: ",
+        "translation": "Special thanks and credits to Ericka Scheffen, Georgette Mcleod and the TH Heritage Department ",
+        "img": ["assets/images/Family.jpg" ]
+
+      }
+    ]
+  }
+}

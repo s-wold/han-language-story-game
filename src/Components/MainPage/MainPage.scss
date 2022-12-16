@@ -1,0 +1,96 @@
+.main {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) ,url("public/assets/images/yukon-background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+
+
+    &__section {
+        background-color:rgba(219, 177, 123, 0.829);
+        width: 900px;
+        height: 690px;
+        border-radius: 12px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    &__image {
+        margin-bottom: 2%;
+        margin-top: 2rem;
+        box-shadow: 4px 10px 30px 0px rgba(0,0,0,0.41);
+        border-radius: .5rem;
+        max-height: 421px;
+
+    }
+
+
+    &__question {
+        background-color: antiquewhite;
+        height: 2.5rem;
+        width: 500px;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 15px;
+        padding-top: 1rem;
+        border-radius: .5rem;
+        box-shadow: 4px 10px 10px 0px rgba(0,0,0,0.41);
+        padding-left: 1rem;
+
+        
+    }
+
+    &__translation {
+        background-color: antiquewhite;
+        height: 2.5rem;
+        width: 500px;
+        display: flex;
+        justify-content: center;
+        padding-top: 1rem;
+        border-radius: .5rem;
+        box-shadow: 4px 10px 10px 0px rgba(0,0,0,0.41);
+        padding-left: 1rem;
+
+
+    }
+
+    &__form {
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        border-radius: 1rem;
+        
+        
+    }
+
+    &__form-title {
+        
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+
+    }
+
+    &__submit-button {
+        background-color: rgba(9, 163, 60, 0.856);
+        width: 3.5rem;
+        margin: 5px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font: 20px;
+        margin-bottom: 1rem;
+        box-shadow: 2px 3px 3px 0px rgba(0,0,0,0.41);
+        // .btn:hover {
+        //     border-color: black;
+        //   }
+    }
+}
